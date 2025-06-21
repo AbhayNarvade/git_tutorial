@@ -1,1 +1,1 @@
-hey wassup buddy 
+print("Hey wassup buddy ")
